@@ -1,5 +1,5 @@
 
-# Inteligência Artificial em Python 🐍 voltada para comunicação comercial
+# Inteligência Artificial em Python 🐍 voltada para o meio empresarial
 
 O projeto desenvolvido em Python tem como finalidade facilitar a interação dos usuários com o sistema.
 A IA consegue receber e-mails, tratar e filtrar as demandas, comunicar com servidores e sistemas de terceiros e resolver a demanda devolvendo para o requisitante.
