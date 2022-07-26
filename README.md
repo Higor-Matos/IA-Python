@@ -23,17 +23,17 @@ Nesse cenário, utilizei para gerar assinaturas de e-mail.
 
 #### Como o BOT funciona?
 
-O bot consegue ler, tratar e filtrar todos os tipos de -mail.
+O bot consegue ler, tratar e filtrar todos os tipos de e-mail.
 O usuário envia um e-mail com a demanda e o bot resolve e devolve ela concluída.
 Para demonstração, configurei o BOT para gerar assinaturas de e-mail.
 
 #### O BOT é seguro?
 
-Sim. O bot conta com filtros anti-spam, métricas conta malwares evitando probelmas e contaminações.
+Sim. O bot conta com filtros anti-spam e métricas contra malwares podendo assim evitar problemas e contaminações.
 
 #### Onde o BOT pode ser aplicado?
 
-O bot tem um leque muito grande de possiblidade, tudo envolvendo respostas e consultas via e-mail torna-se tangível. É possivel requisitar segunda via de nota fiscal, recibo, gerar assinaturas corporativas (exemplo que foi usado nesse cenário para demonstração), aviso de férias...
+O bot é modular e adpatável, tudo envolvendo respostas e consultas via e-mail torna-se tangível. Exemplos de aplicação: possibilidade de requisitar segunda via de nota fiscal, recibo, gerar assinaturas corporativas (exemplo que foi usado nesse cenário para demonstração), aviso de férias, analisar status de processos de servidores e enviar alertas.
 
 ## Funcionalidades
 
@@ -45,7 +45,7 @@ O bot tem um leque muito grande de possiblidade, tudo envolvendo respostas e con
 
 
 ## 🚀 Sobre mim
-Desenvolver Python, Java e iniciante em Kotlin. Busco sempre melhorar e tornar os processos aos quais sou submetido mais rápidos e simples.
+Desenvolvedor Python, Java e iniciante em Kotlin. Busco sempre melhorar e tornar os processos aos quais sou submetido mais rápidos e simples.
 
 
 ## 🔗 Link
