@@ -29,7 +29,7 @@ Para demonstração, configurei o BOT para gerar assinaturas de e-mail.
 
 #### O BOT é seguro?
 
-Sim. O bot conta com filtros anti-spam e métricas contra malwares podendo assim evitar problemas e contaminações.
+Sim. O bot conta com filtros anti-spam e métricas contra malwares, podendo assim evitar problemas e contaminações.
 
 #### Onde o BOT pode ser aplicado?
 
